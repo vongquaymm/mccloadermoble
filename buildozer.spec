@@ -47,7 +47,7 @@ requirements = python3,kivy,pillow,https://github.com/kivymd/KivyMD/archive/refs
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-icon.filename = %(source.dir)s/data/mcclogo.png
+#icon.filename = %(source.dir)s/data/mcclogo.png
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
